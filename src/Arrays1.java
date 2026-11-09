@@ -19,9 +19,9 @@ public class Arrays1 {
 //        zile_pe_luna[11] = 31;
 //        System.out.println("În noiembrie sunt " + zile_pe_luna[10] + " zile.");
 
-        int zile_pe_luna[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-
-        System.out.println("In noimbrie sunt " + zile_pe_luna[10] + " de zile.");
+//        int zile_pe_luna[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+//
+//        System.out.println("In noimbrie sunt " + zile_pe_luna[10] + " de zile.");
 
     }
 }
